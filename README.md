@@ -1,3 +1,4 @@
-
-#seaShell
+seaShell
+=========
 A shell implementation in C.
+---
